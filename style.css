@@ -1,0 +1,22 @@
+
+
+#spinner{
+    
+    display: none;
+    
+
+}
+
+#showall{
+    display: none;
+}
+
+.body{
+    font-family: 'Bree Serif', serif;
+font-family: 'Poppins', sans-serif;
+}
+
+.edit{
+    font-weight: 800;
+}
+
